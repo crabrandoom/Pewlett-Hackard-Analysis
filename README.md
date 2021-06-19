@@ -15,10 +15,11 @@ The purpose of this analysis was to determine the number of retiring employees p
 
 ## Summary
 
+
 The total number of roles to be filled due to the upcoming wave of retirement is 90,000. 
 
-[Total_retiring.png]!(https://github.com/crabrandoom/Pewlett-Hackard-Analysis/blob/main/Total_retiring.PNG)
+(Total_retiring.png)![https://github.com/crabrandoom/Pewlett-Hackard-Analysis/blob/main/Total_retiring.PNG]
 
 In order to effectively mentor 90,000+ new hires 1500 mentorship eligible employees will need to be able to effectively mentor 60 employees each.
 
-[Mentorship_count.png]!(https://github.com/crabrandoom/Pewlett-Hackard-Analysis/blob/main/Mentors_count.PNG)
+(Mentorship_count.png)![https://github.com/crabrandoom/Pewlett-Hackard-Analysis/blob/main/Mentors_count.PNG]
