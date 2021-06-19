@@ -1,4 +1,4 @@
-# Pewlett-Hackard-Analysisf
+# Pewlett-Hackard-Analysis
 
 ## Overview
 
